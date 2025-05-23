@@ -9,7 +9,6 @@ Here's a list of features included in this project:
 | Name                                       | Description                       |
 |--------------------------------------------|-----------------------------------|
 | [Routing](https://start.ktor.io/p/routing) | Provides a structured routing DSL |
-| [OpenAPI](https://start.ktor.io/p/openapi) | Serves OpenAPI documentation      |
 
 ## Building & Running
 
