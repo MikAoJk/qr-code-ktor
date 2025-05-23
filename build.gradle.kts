@@ -28,7 +28,6 @@ repositories {
 
 dependencies {
     implementation("io.ktor:ktor-server-core")
-    implementation("io.ktor:ktor-server-openapi")
     implementation("io.ktor:ktor-server-cio")
     implementation("io.ktor:ktor-serialization-jackson")
     implementation("io.ktor:ktor-server-content-negotiation")
