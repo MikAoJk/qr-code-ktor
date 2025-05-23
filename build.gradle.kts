@@ -5,7 +5,7 @@ val logbackVersion = "1.5.18"
 val zingVersion= "3.5.3"
 
 plugins {
-    kotlin("jvm") version "2.1.10"
+    kotlin("jvm") version "2.1.21"
     id("io.ktor.plugin") version "3.1.3"
 }
 
