@@ -2,7 +2,7 @@ val javaVersion = 21
 
 val kotlinVersion = "2.1.21"
 val logbackVersion = "1.5.18"
-val zingVersion= "3.5.3"
+val zingVersion = "3.5.3"
 
 plugins {
     kotlin("jvm") version "2.1.21"
