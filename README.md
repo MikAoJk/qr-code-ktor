@@ -38,3 +38,10 @@ curl -X POST http://0.0.0.0:8080/generate-qr \
 -d '{"text": "www.google.com"}' \
 -o qr-code.png
 ```
+
+### Upgrading the gradle wrapper
+Find the newest version of gradle here: https://gradle.org/releases/ Then run this command:
+(Remember to replace $gradleVersjon with the newest version, example: 8.12)
+```shell script
+./gradlew wrapper --gradle-version $gradleVersjon
+```
